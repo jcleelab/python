@@ -1,7 +1,7 @@
 import socket
 import six
 
-HOST = '180.230.134.250'  
+HOST = ''  
 PORT = 8899
 
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
